@@ -1,6 +1,5 @@
-kol = 0
 with open(r'Perepis.txt', 'r') as f:
-    
+    kol = 0 
     print('punkt_a')
     for i in f:
         s = i.split() 
