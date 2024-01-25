@@ -20,6 +20,6 @@ try:
 except ZeroDivisionError:
     print("деление на ноль")
 except TypeError:
-    print("ты чё, тут только")
+    print("ты чё, тут только цифры")
 
 
